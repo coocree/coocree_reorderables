@@ -2,4 +2,5 @@
 
 ## 27/04/23
 
-- [ ]  Alterar o sistema de refazer a lista de tarefas deste componentes
+- [ ]  Defenir a utilidade do componente, 
+- [ ]  incluir em portugues as especificações do componente  
